@@ -3,7 +3,8 @@ Hackintosh Laptop/Mini PC AMD Ryzen 3 3200U with AMD Ryzen Radeon Vega 3 Mobile 
 -------
 
 Specification
-
+- OS: macOS Monterey 12.6.1 Stable
+- SMBIOS: MacPro7,1
 - CPU: AMD Ryzen 3 3200U
 - iGPU: AMD Ryzen Vega 3 Mobile Gfx
 - RAM: 12GB (8 & 4)
